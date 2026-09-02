@@ -1,0 +1,24 @@
+{
+  "snapshots": [
+    {
+      "year": 2020,
+      "nodes": 1839,
+      "edges": 405
+    },
+    {
+      "year": 2022,
+      "nodes": 2496,
+      "edges": 589
+    },
+    {
+      "year": 2024,
+      "nodes": 4307,
+      "edges": 1063
+    },
+    {
+      "year": 2026,
+      "nodes": 5798,
+      "edges": 1429
+    }
+  ]
+}
