@@ -1,0 +1,22 @@
+{
+  "2020": {
+    "nodes": 1505,
+    "hyperedges": 374,
+    "temporal_definition": "first_seen_year <= snapshot_year"
+  },
+  "2022": {
+    "nodes": 2164,
+    "hyperedges": 529,
+    "temporal_definition": "first_seen_year <= snapshot_year"
+  },
+  "2024": {
+    "nodes": 4164,
+    "hyperedges": 983,
+    "temporal_definition": "first_seen_year <= snapshot_year"
+  },
+  "2026": {
+    "nodes": 5798,
+    "hyperedges": 1429,
+    "temporal_definition": "first_seen_year <= snapshot_year"
+  }
+}
