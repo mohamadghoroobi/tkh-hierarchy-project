@@ -1,0 +1,21 @@
+{
+  "snapshot_years": [
+    2020,
+    2022,
+    2024,
+    2026
+  ],
+  "levels_coupled": [
+    0,
+    1,
+    2
+  ],
+  "matching_method": "Hungarian maximum-weight matching",
+  "membership_similarity": "Jaccard over previously visible nodes only",
+  "match_threshold": 0.2,
+  "event_overlap_threshold": 0.2,
+  "parent_bonus": 0.15,
+  "matching_order": "coarse-to-fine",
+  "gold_benchmark_used": false,
+  "partition_memberships_modified": false
+}

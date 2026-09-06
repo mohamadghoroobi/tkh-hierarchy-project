@@ -1,0 +1,92 @@
+{
+  "2020->2022": {
+    "P0": {
+      "old_clusters": 12,
+      "new_clusters": 12,
+      "matched_clusters": 11,
+      "cluster_identity_retention": 0.9166666666666666,
+      "mean_match_jaccard": 0.5935002259774969,
+      "median_match_jaccard": 0.5925925925925926,
+      "node_identity_retention": 0.7169435215946844
+    },
+    "P1": {
+      "old_clusters": 60,
+      "new_clusters": 60,
+      "matched_clusters": 48,
+      "cluster_identity_retention": 0.8,
+      "mean_match_jaccard": 0.7425852757487061,
+      "median_match_jaccard": 0.8390804597701149,
+      "node_identity_retention": 0.7940199335548173
+    },
+    "P2": {
+      "old_clusters": 300,
+      "new_clusters": 300,
+      "matched_clusters": 215,
+      "cluster_identity_retention": 0.7166666666666667,
+      "mean_match_jaccard": 0.8784316705062928,
+      "median_match_jaccard": 1.0,
+      "node_identity_retention": 0.8478405315614618
+    },
+    "runtime_seconds": 0.17844187400010014
+  },
+  "2022->2024": {
+    "P0": {
+      "old_clusters": 12,
+      "new_clusters": 12,
+      "matched_clusters": 7,
+      "cluster_identity_retention": 0.5833333333333334,
+      "mean_match_jaccard": 0.5108421106487941,
+      "median_match_jaccard": 0.4357142857142857,
+      "node_identity_retention": 0.6529574861367837
+    },
+    "P1": {
+      "old_clusters": 60,
+      "new_clusters": 60,
+      "matched_clusters": 27,
+      "cluster_identity_retention": 0.45,
+      "mean_match_jaccard": 0.6496225849370518,
+      "median_match_jaccard": 0.7647058823529411,
+      "node_identity_retention": 0.42837338262476893
+    },
+    "P2": {
+      "old_clusters": 300,
+      "new_clusters": 300,
+      "matched_clusters": 173,
+      "cluster_identity_retention": 0.5766666666666667,
+      "mean_match_jaccard": 0.7719124046814145,
+      "median_match_jaccard": 0.898876404494382,
+      "node_identity_retention": 0.6580406654343808
+    },
+    "runtime_seconds": 0.25900914599992575
+  },
+  "2024->2026": {
+    "P0": {
+      "old_clusters": 12,
+      "new_clusters": 12,
+      "matched_clusters": 10,
+      "cluster_identity_retention": 0.8333333333333334,
+      "mean_match_jaccard": 0.6737948238569574,
+      "median_match_jaccard": 0.688862621486735,
+      "node_identity_retention": 0.914505283381364
+    },
+    "P1": {
+      "old_clusters": 60,
+      "new_clusters": 60,
+      "matched_clusters": 43,
+      "cluster_identity_retention": 0.7166666666666667,
+      "mean_match_jaccard": 0.6806541351160871,
+      "median_match_jaccard": 0.7142857142857143,
+      "node_identity_retention": 0.765609990393852
+    },
+    "P2": {
+      "old_clusters": 300,
+      "new_clusters": 300,
+      "matched_clusters": 238,
+      "cluster_identity_retention": 0.7933333333333333,
+      "mean_match_jaccard": 0.738385392063369,
+      "median_match_jaccard": 0.7958333333333334,
+      "node_identity_retention": 0.7776176753121998
+    },
+    "runtime_seconds": 0.1546362379999664
+  }
+}
