@@ -1,0 +1,127 @@
+{
+  "temporal_growth": [
+    {
+      "year": 2020,
+      "nodes": 1505,
+      "hyperedges": 374
+    },
+    {
+      "year": 2022,
+      "nodes": 2164,
+      "hyperedges": 529
+    },
+    {
+      "year": 2024,
+      "nodes": 4164,
+      "hyperedges": 983
+    },
+    {
+      "year": 2026,
+      "nodes": 5798,
+      "hyperedges": 1429
+    }
+  ],
+  "node_types": [
+    {
+      "type": "technique",
+      "count": 962
+    },
+    {
+      "type": "component",
+      "count": 855
+    },
+    {
+      "type": "task",
+      "count": 732
+    },
+    {
+      "type": "claim",
+      "count": 690
+    },
+    {
+      "type": "problem",
+      "count": 634
+    },
+    {
+      "type": "cited_work",
+      "count": 580
+    },
+    {
+      "type": "method",
+      "count": 448
+    },
+    {
+      "type": "author",
+      "count": 318
+    },
+    {
+      "type": "dataset",
+      "count": 259
+    },
+    {
+      "type": "future_topic",
+      "count": 178
+    },
+    {
+      "type": "metric",
+      "count": 90
+    },
+    {
+      "type": "article",
+      "count": 52
+    }
+  ],
+  "relation_types": [
+    {
+      "relation_type": "claims",
+      "count": 690
+    },
+    {
+      "relation_type": "evaluated_on",
+      "count": 301
+    },
+    {
+      "relation_type": "presents",
+      "count": 52
+    },
+    {
+      "relation_type": "authored_by",
+      "count": 51
+    },
+    {
+      "relation_type": "addresses",
+      "count": 51
+    },
+    {
+      "relation_type": "uses_technique",
+      "count": 51
+    },
+    {
+      "relation_type": "solves",
+      "count": 51
+    },
+    {
+      "relation_type": "extends",
+      "count": 50
+    },
+    {
+      "relation_type": "uses_component",
+      "count": 50
+    },
+    {
+      "relation_type": "proposes_future_work",
+      "count": 45
+    },
+    {
+      "relation_type": "cites",
+      "count": 37
+    }
+  ],
+  "arity_statistics": {
+    "minimum": 2,
+    "maximum": 65,
+    "mean": 6.248425472358292,
+    "median": 3.0,
+    "multiway_fraction": 0.8047585724282715
+  }
+}
