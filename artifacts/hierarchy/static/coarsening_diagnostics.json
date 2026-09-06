@@ -1,0 +1,262 @@
+{
+  "2020": {
+    "P2": {
+      "input_supernodes": 1505,
+      "target_supernodes": 300,
+      "output_supernodes": 300,
+      "merges": 1205,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.4999999935973605,
+        "semantic": -1.2805278786685697e-08,
+        "hypergraph": 0.9999999999999999,
+        "num_supernodes": 1505
+      },
+      "final_objective": {
+        "total": 0.12019188694801704,
+        "semantic": 0.17797633114026,
+        "hypergraph": 0.06240744275577406,
+        "num_supernodes": 300
+      },
+      "runtime_seconds": 7.194184262999897
+    },
+    "P1": {
+      "input_supernodes": 300,
+      "target_supernodes": 60,
+      "output_supernodes": 60,
+      "merges": 240,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.12019188694801704,
+        "semantic": 0.17797633114026,
+        "hypergraph": 0.06240744275577406,
+        "num_supernodes": 300
+      },
+      "final_objective": {
+        "total": 0.13937331060122435,
+        "semantic": 0.2379085852290474,
+        "hypergraph": 0.04083803597340132,
+        "num_supernodes": 60
+      },
+      "runtime_seconds": 0.655397112999708
+    },
+    "P0": {
+      "input_supernodes": 60,
+      "target_supernodes": 12,
+      "output_supernodes": 12,
+      "merges": 48,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.13937331060122435,
+        "semantic": 0.2379085852290474,
+        "hypergraph": 0.04083803597340132,
+        "num_supernodes": 60
+      },
+      "final_objective": {
+        "total": 0.15447042775375017,
+        "semantic": 0.28453691342248477,
+        "hypergraph": 0.024403942085015576,
+        "num_supernodes": 12
+      },
+      "runtime_seconds": 0.16397817600000053
+    }
+  },
+  "2022": {
+    "P2": {
+      "input_supernodes": 2164,
+      "target_supernodes": 300,
+      "output_supernodes": 300,
+      "merges": 1864,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.49999999348346014,
+        "semantic": -1.3033079707546111e-08,
+        "hypergraph": 1.0,
+        "num_supernodes": 2164
+      },
+      "final_objective": {
+        "total": 0.12745127686352692,
+        "semantic": 0.1936588391336422,
+        "hypergraph": 0.061243714593411644,
+        "num_supernodes": 300
+      },
+      "runtime_seconds": 14.0004057189999
+    },
+    "P1": {
+      "input_supernodes": 300,
+      "target_supernodes": 60,
+      "output_supernodes": 60,
+      "merges": 240,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.12745127686352692,
+        "semantic": 0.1936588391336422,
+        "hypergraph": 0.061243714593411644,
+        "num_supernodes": 300
+      },
+      "final_objective": {
+        "total": 0.14562001745470832,
+        "semantic": 0.24854038658336236,
+        "hypergraph": 0.042699648326054274,
+        "num_supernodes": 60
+      },
+      "runtime_seconds": 0.8444647270002861
+    },
+    "P0": {
+      "input_supernodes": 60,
+      "target_supernodes": 12,
+      "output_supernodes": 12,
+      "merges": 48,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.14562001745470832,
+        "semantic": 0.24854038658336236,
+        "hypergraph": 0.042699648326054274,
+        "num_supernodes": 60
+      },
+      "final_objective": {
+        "total": 0.15765459126277567,
+        "semantic": 0.2905961741519816,
+        "hypergraph": 0.024713008373569746,
+        "num_supernodes": 12
+      },
+      "runtime_seconds": 0.24085987499984185
+    }
+  },
+  "2024": {
+    "P2": {
+      "input_supernodes": 4164,
+      "target_supernodes": 300,
+      "output_supernodes": 300,
+      "merges": 3864,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.4999999937635102,
+        "semantic": -1.2472979491736949e-08,
+        "hypergraph": 0.9999999999999999,
+        "num_supernodes": 4164
+      },
+      "final_objective": {
+        "total": 0.1335288430097755,
+        "semantic": 0.2114873452071232,
+        "hypergraph": 0.05557034081242778,
+        "num_supernodes": 300
+      },
+      "runtime_seconds": 89.631359041
+    },
+    "P1": {
+      "input_supernodes": 300,
+      "target_supernodes": 60,
+      "output_supernodes": 60,
+      "merges": 240,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.1335288430097755,
+        "semantic": 0.2114873452071232,
+        "hypergraph": 0.05557034081242778,
+        "num_supernodes": 300
+      },
+      "final_objective": {
+        "total": 0.15032051822246828,
+        "semantic": 0.26977119169373226,
+        "hypergraph": 0.03086984475120433,
+        "num_supernodes": 60
+      },
+      "runtime_seconds": 1.8215426320002734
+    },
+    "P0": {
+      "input_supernodes": 60,
+      "target_supernodes": 12,
+      "output_supernodes": 12,
+      "merges": 48,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.15032051822246828,
+        "semantic": 0.26977119169373226,
+        "hypergraph": 0.03086984475120433,
+        "num_supernodes": 60
+      },
+      "final_objective": {
+        "total": 0.15772964443431642,
+        "semantic": 0.304267721827503,
+        "hypergraph": 0.01119156704112984,
+        "num_supernodes": 12
+      },
+      "runtime_seconds": 0.37956947199973
+    }
+  },
+  "2026": {
+    "P2": {
+      "input_supernodes": 5798,
+      "target_supernodes": 300,
+      "output_supernodes": 300,
+      "merges": 5498,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.49999999374900883,
+        "semantic": -1.2501982174842542e-08,
+        "hypergraph": 0.9999999999999999,
+        "num_supernodes": 5798
+      },
+      "final_objective": {
+        "total": 0.13848301940095056,
+        "semantic": 0.2210954460169439,
+        "hypergraph": 0.05587059278495723,
+        "num_supernodes": 300
+      },
+      "runtime_seconds": 262.6826570330004
+    },
+    "P1": {
+      "input_supernodes": 300,
+      "target_supernodes": 60,
+      "output_supernodes": 60,
+      "merges": 240,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.13848301940095056,
+        "semantic": 0.2210954460169439,
+        "hypergraph": 0.05587059278495723,
+        "num_supernodes": 300
+      },
+      "final_objective": {
+        "total": 0.15374260910020723,
+        "semantic": 0.2763386399614273,
+        "hypergraph": 0.031146578238987168,
+        "num_supernodes": 60
+      },
+      "runtime_seconds": 2.7842932120001933
+    },
+    "P0": {
+      "input_supernodes": 60,
+      "target_supernodes": 12,
+      "output_supernodes": 12,
+      "merges": 48,
+      "alpha": 0.5,
+      "semantic_k": 12,
+      "initial_objective": {
+        "total": 0.15374260910020723,
+        "semantic": 0.2763386399614273,
+        "hypergraph": 0.031146578238987168,
+        "num_supernodes": 60
+      },
+      "final_objective": {
+        "total": 0.1590623197021204,
+        "semantic": 0.30721628236944387,
+        "hypergraph": 0.010908357034796945,
+        "num_supernodes": 12
+      },
+      "runtime_seconds": 0.6016919579997193
+    }
+  }
+}
