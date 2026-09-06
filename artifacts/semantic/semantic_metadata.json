@@ -1,0 +1,17 @@
+{
+  "num_nodes": 5798,
+  "embedding_dimension": 768,
+  "model_name": "sentence-transformers/all-mpnet-base-v2",
+  "model_revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+  "input_field": "surface_form",
+  "text_normalization": "Unicode NFKC + whitespace collapse",
+  "lowercase": false,
+  "normalized_embeddings": true,
+  "dtype": "float32",
+  "seed": 42,
+  "device_used": "cuda",
+  "sentence_transformers_version": "5.7.0",
+  "torch_version": "2.11.0+cu128",
+  "embedding_sha256": "5cc6060e2a04d9cf5e20ae1878f855f7f12dfc928b5698ef7aa9a24e9e763fee",
+  "evaluation_warning": "Primary semantic embeddings must not be reused as the T6 semantic coherence evaluation signal."
+}
