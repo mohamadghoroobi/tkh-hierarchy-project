@@ -1,0 +1,32 @@
+{
+  "objective": "alpha * semantic_loss + (1-alpha) * hypergraph_entropy_loss",
+  "semantic_loss": "mean normalized cosine distance to cluster centroid",
+  "hypergraph_loss": "mean normalized endpoint-distribution entropy per hyperedge",
+  "hypergraph_native": true,
+  "pairwise_projection": false,
+  "edge_weighting_primary": "uniform",
+  "edge_weighting_ablation": "relation_balanced",
+  "alpha_grid": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "target_clusters": {
+    "P0": 12,
+    "P1": 60,
+    "P2": 300
+  },
+  "snapshot_years": [
+    2020,
+    2022,
+    2024,
+    2026
+  ],
+  "snapshot_rule": {
+    "node": "first_seen_year <= snapshot_year",
+    "edge": "edge.year <= snapshot_year and all endpoints visible"
+  },
+  "gold_benchmark_used": false
+}
