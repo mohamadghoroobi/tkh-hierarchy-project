@@ -1,0 +1,86 @@
+[
+  {
+    "file": "metadata/manifest.json",
+    "size_bytes": 1951
+  },
+  {
+    "file": "metadata/project_metadata.json",
+    "size_bytes": 474
+  },
+  {
+    "file": "evaluation/retrieval_evaluation_results.csv",
+    "size_bytes": 5567
+  },
+  {
+    "file": "evaluation/t1_statistics.json",
+    "size_bytes": 1988
+  },
+  {
+    "file": "hierarchy/temporal/temporal_coupling_config.json",
+    "size_bytes": 443
+  },
+  {
+    "file": "hierarchy/temporal/hierarchy_2020_temporal_unlabelled.json",
+    "size_bytes": 717477
+  },
+  {
+    "file": "hierarchy/temporal/temporal_events.json",
+    "size_bytes": 1145015
+  },
+  {
+    "file": "hierarchy/temporal/hierarchy_2026_temporal_unlabelled.json",
+    "size_bytes": 2474113
+  },
+  {
+    "file": "hierarchy/temporal/hierarchy_2024_temporal_unlabelled.json",
+    "size_bytes": 1806090
+  },
+  {
+    "file": "hierarchy/temporal/hierarchy_2022_temporal_unlabelled.json",
+    "size_bytes": 988599
+  },
+  {
+    "file": "hierarchy/temporal/temporal_coupling_diagnostics.json",
+    "size_bytes": 2922
+  },
+  {
+    "file": "hierarchy/labelled/label_table.csv",
+    "size_bytes": 12528
+  },
+  {
+    "file": "hierarchy/labelled/hierarchy_2022_labelled.json",
+    "size_bytes": 1020339
+  },
+  {
+    "file": "hierarchy/labelled/hierarchy_2020_labelled.json",
+    "size_bytes": 749122
+  },
+  {
+    "file": "hierarchy/labelled/hierarchy_2024_labelled.json",
+    "size_bytes": 1838090
+  },
+  {
+    "file": "hierarchy/labelled/hierarchy_2026_labelled.json",
+    "size_bytes": 2506230
+  },
+  {
+    "file": "hierarchy/static/hierarchy_2020_static_unlabelled.json",
+    "size_bytes": 560185
+  },
+  {
+    "file": "hierarchy/static/hierarchy_2026_static_unlabelled.json",
+    "size_bytes": 1956209
+  },
+  {
+    "file": "hierarchy/static/coarsening_diagnostics.json",
+    "size_bytes": 7225
+  },
+  {
+    "file": "hierarchy/static/hierarchy_2022_static_unlabelled.json",
+    "size_bytes": 775951
+  },
+  {
+    "file": "hierarchy/static/hierarchy_2024_static_unlabelled.json",
+    "size_bytes": 1425442
+  }
+]
