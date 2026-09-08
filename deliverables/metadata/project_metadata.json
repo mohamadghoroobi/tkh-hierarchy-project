@@ -1,6 +1,6 @@
 {
   "project": "Multi-Resolution Semantic Abstraction over an Evolving Knowledge Hypergraph",
-  "generated": "2026-09-08T14:16:31.140702",
+  "generated": "2026-09-08T14:25:57.107008",
   "pipeline": [
     "01_load_and_validate_data",
     "02_temporal_snapshot_construction",
